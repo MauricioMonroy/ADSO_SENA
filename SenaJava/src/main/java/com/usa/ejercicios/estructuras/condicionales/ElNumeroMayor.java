@@ -9,7 +9,7 @@ public class ElNumeroMayor {
     System.out.println("Proporcione el primer número:");
     int num1 = Integer.parseInt(scanner.nextLine());
 
-    System.out.println("Proporciona el segundo número");
+    System.out.println("Proporcione el segundo número");
     int num2 = Integer.parseInt(scanner.nextLine());
 
     if (num1 > num2) {
