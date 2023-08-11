@@ -9,10 +9,10 @@ public class Calificaciones {
     System.out.println("Proporcione la primera nota:");
     float nota1 = Float.parseFloat(scanner.nextLine());
 
-    System.out.println("Proporciona la segunda nota");
+    System.out.println("Proporcione la segunda nota");
     float nota2 = Float.parseFloat(scanner.nextLine());
 
-    System.out.println("Proporciona la tercera nota");
+    System.out.println("Proporcione la tercera nota");
     double nota3 = Float.parseFloat(scanner.nextLine());
 
     float notaFinal;
